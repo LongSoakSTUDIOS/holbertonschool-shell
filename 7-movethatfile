@@ -1,0 +1,2 @@
+#!/bin/bash
+mv better /tmp/my_first_directory
